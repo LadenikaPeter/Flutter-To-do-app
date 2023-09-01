@@ -26,6 +26,8 @@ A to-do list application that keeps track of user activities using the provider 
 ## Screenshots
 ![MicrosoftTeams-image](https://github.com/LadenikaPeter/Flutter-To-do-app/assets/106180758/04c06ae9-770f-4349-8366-77f50cb75992)
 
+![MicrosoftTeams-image (1)](https://github.com/LadenikaPeter/Flutter-To-do-app/assets/106180758/8d5b2999-77af-41f1-823e-945724e899d9)
+
 
 
 
