@@ -25,7 +25,10 @@ A to-do list application that keeps track of user activities using the provider 
 
 ## Screenshots
 
-![Screenshot of the to-do app](screenshot.png)
+![image](https://github.com/LadenikaPeter/Flutter-To-do-app/assets/106180758/a279a58e-157c-4e85-9575-297e78832f25)
+
+![image](https://github.com/LadenikaPeter/Flutter-To-do-app/assets/106180758/c6866cbb-c0a9-4e61-a349-818dc614399e)
+
 
 ## Contributing
 
